@@ -2,6 +2,7 @@ package PageObjectModel;
 
 import AutoFrameWork.Utilities.Log;
 import AutoFrameWork.Utilities.Screenshot;
+import AutoFrameWork.Validation;
 import jdk.swing.interop.SwingInterOpUtils;
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -15,6 +16,7 @@ import java.io.IOException;
 public class LoginPage {
     WebDriver driver;
     WebDriverWait wait;
+    String email;
 
     By loginForm = By.id("login_form");  //   "//form[@id='login_form']"
     By emailField = By.id("email");
@@ -29,14 +31,22 @@ public class LoginPage {
     By emailCreateField = By.id("email_create");
     By submitCreateAccountBtn = By.id("SubmitCreate");
 
-    public LoginPage(WebDriver dr){
+    By homeLink = By.linkText("Home");
+
+    Validation validate;
+
+    public LoginPage(WebDriver dr, String email){
         driver = dr;
         wait = new WebDriverWait(driver,10);
+        this.email = email;
     }
 
     public void login(String email, String password) throws IOException {
         Log.info("Login with "+ email + " and password "+password);
-        if(validateEmail(email) && password.length() > 5){
+        validate = new Validation(email,password);
+//        ?????????????????????????????????????---sth wrong ---????????????????????????????
+        if(validate.validateEmail(email) && validate.validatePassword(password)){
+//        if(validateEmail(email) && password.length() > 5){    //this works !!!!!!!
             Screenshot.takeWebElementScreenShot(wait.until(ExpectedConditions.visibilityOfElementLocated(loginForm)),"loginForm");
             wait.until(ExpectedConditions.visibilityOfElementLocated(loginForm));
             wait.until(ExpectedConditions.visibilityOfElementLocated(emailField)).sendKeys(email);
@@ -73,15 +83,26 @@ public class LoginPage {
         System.out.println("Logout passed");
     }
 
-    public void createAccount(String email){
+//    public void createAccount(String email){
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(createAccountForm));
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(emailCreateField)).sendKeys(email);
+//        System.out.println("CreateAccount passed");
+//    }
+//
+//    public RegistrationPage openRegistrationPage(String email){
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(submitCreateAccountBtn)).click();
+//        return new RegistrationPage(driver,email);
+//    }
+
+    public RegistrationPage createAccount(String email){
         wait.until(ExpectedConditions.visibilityOfElementLocated(createAccountForm));
         wait.until(ExpectedConditions.visibilityOfElementLocated(emailCreateField)).sendKeys(email);
-        System.out.println("CreateAccount passed");
+        wait.until(ExpectedConditions.visibilityOfElementLocated(submitCreateAccountBtn)).click();
+        return new RegistrationPage(driver,email);
     }
 
-    public CreateAccountPage openCreateAccountPage(){
-        wait.until(ExpectedConditions.visibilityOfElementLocated(submitCreateAccountBtn)).click();
-        return new CreateAccountPage(driver);
+    public void goToHomePage(){
+        wait.until(ExpectedConditions.visibilityOfElementLocated(homeLink)).click();
     }
 
     public void closePage(){

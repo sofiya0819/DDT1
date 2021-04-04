@@ -17,7 +17,7 @@ import java.util.Iterator;
 
 public class MainTestSetUp {
     private static final String CHROME_DRIVER_PATH = "C://WebDriver//bin//chromedriver.exe";
-    private static final String INIT_PATH = "C://WebDriver//Book3.xlsx";
+    private static final String INIT_PATH = "C://WebDriver//inits//Book3.xlsx";
     private static final String CHROME = "CHROME";
     private static final String FIREFOX = "FIREFOX";
     public WebDriver driver;
@@ -58,7 +58,6 @@ public class MainTestSetUp {
         this.driver.manage().window().maximize();
     }
 
-
     private void readDataFromExcelFile() throws IOException {
         String className = this.getClass().getSimpleName();
         File file = new File(INIT_PATH);
@@ -93,5 +92,10 @@ public class MainTestSetUp {
             this.driver = new ChromeDriver();
         }
     }
+
+    public void mainTestTearDown(){
+        this.driver.quit();
+    }
+
 
 }

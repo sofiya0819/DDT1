@@ -6,14 +6,14 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class CreateAccountPageFactory {
+public class RegistrationPageFactory {
     WebDriver driver;
     WebDriverWait wait;
 
     @FindBy(className = "submitAccount")
-    WebElement submitBtn;
+    WebElement RegisterBtn;
 
-    public CreateAccountPageFactory(WebDriver dr){
+    public RegistrationPageFactory(WebDriver dr){
         //ToDo: set implicit wait
         if(driver == null){
             throw new NullPointerException("Create Account Page Factory Driver instance is null");
@@ -22,7 +22,12 @@ public class CreateAccountPageFactory {
         PageFactory.initElements(driver,this);
     }
 
-    public void submitNewAccountForm(){
-        submitBtn.click();
+    public void submitRegistrationForm(){
+        RegisterBtn.click();
     }
+
+    public void closePage(){
+        driver.close();
+    }
+
 }

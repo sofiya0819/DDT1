@@ -3,7 +3,8 @@ package TestsFactory;
 import PageFactory.ForgottenPasswordPageFactory;
 import PageFactory.HomePageFactory;
 import PageFactory.LoginPageFactory;
-import PageObjectModel.CreateAccountPage;
+import PageFactory.RegistrationPageFactory;
+import PageObjectModel.RegistrationPage;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -43,9 +44,11 @@ public class TC_LoginFactory {
         HomePageFactory homePageFactory = new HomePageFactory(driver);
         homePageFactory.navigateTo();
         LoginPageFactory loginPageFactory = homePageFactory.openSignInPage();
-        loginPageFactory.createAccount(email);
-        CreateAccountPage createAccountPage = loginPageFactory.openCreateAccountPage();
-        homePageFactory.closePage();
+//        loginPageFactory.createAccount(email);
+//        RegistrationPageFactory registrationPage = loginPageFactory.openRegistrationPage();
+        RegistrationPageFactory registrationPage = loginPageFactory.createAccount(email);
+        registrationPage.closePage();
+
     }
 
     @Test
@@ -55,7 +58,7 @@ public class TC_LoginFactory {
 
     @Test
     public void SuccessfulGoToCreateNewAccount(){
-        createNewAccount("s1234@abv.bg");
+        createNewAccount("s12345@abv.bg");
     }
 
     @Test

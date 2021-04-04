@@ -34,3 +34,708 @@
 2021-02-27 14:27:05,007 INFO  [Log] ------------------------------ 
 2021-02-27 14:27:05,007 INFO  [Log] ---------    END   ----------- 
 2021-02-27 14:27:05,007 INFO  [Log] ------------------------------ 
+2021-02-27 14:45:39,717 INFO  [Log] ------------------------------ 
+2021-02-27 14:45:39,719 INFO  [Log] ---------LoginDDT--------- 
+2021-02-27 14:45:39,719 INFO  [Log] ------------------------------ 
+2021-02-27 14:45:39,719 INFO  [Log] Open new page 
+2021-02-27 14:45:46,799 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-27 14:45:49,081 INFO  [Log] Login passed 
+2021-02-27 14:45:51,830 INFO  [Log] ------------------------------ 
+2021-02-27 14:45:51,830 INFO  [Log] ---------    END   ----------- 
+2021-02-27 14:45:51,830 INFO  [Log] ------------------------------ 
+2021-02-27 17:27:43,522 INFO  [Log] ------------------------------ 
+2021-02-27 17:27:43,524 INFO  [Log] ---------LoginDDT--------- 
+2021-02-27 17:27:43,524 INFO  [Log] ------------------------------ 
+2021-02-27 17:27:43,524 INFO  [Log] Open new page 
+2021-02-27 17:27:56,095 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.className: login (tried for 10 second(s) with 500 milliseconds interval) 
+2021-02-27 17:50:37,202 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 17:55:32,586 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 17:58:33,922 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:00:21,130 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:00:51,864 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:02:17,066 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:10:10,770 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:30:18,893 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:30:42,502 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:34:00,477 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 18:49:25,220 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:09:54,908 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:10:36,466 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:11:36,893 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:13:25,903 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:15:26,666 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:16:38,070 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:22:26,548 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:23:24,836 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:27:32,044 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:29:16,467 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:30:13,403 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:31:38,937 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:32:25,313 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:33:58,017 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:35:01,232 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:37:24,894 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:38:39,958 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:42:01,441 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:49:07,857 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:51:08,281 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:52:27,632 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:53:34,594 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:55:00,098 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:56:48,647 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 19:57:22,614 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:01:18,960 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:02:14,187 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:05:20,384 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:06:15,711 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:09:58,431 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:24:24,112 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:32:09,068 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:33:03,654 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:33:59,181 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:35:06,159 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:36:56,201 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:38:17,308 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:40:41,451 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:41:46,091 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:45:23,868 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:46:38,128 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:47:25,649 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:48:31,604 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:52:07,741 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:53:52,636 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:56:14,931 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 20:59:17,551 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:13:33,358 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:14:25,516 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:15:08,269 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:16:13,854 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:17:06,060 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:19:34,835 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:20:03,871 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:20:44,505 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:21:35,227 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:25:03,832 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:27:31,820 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:29:04,956 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:33:13,046 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-27 21:33:59,016 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:32:48,701 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:32:55,149 INFO  [Log] Login with s1@abv.bg and password alabala 
+2021-02-28 10:32:58,200 INFO  [Log] Login passed 
+2021-02-28 10:33:11,114 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:33:17,301 INFO  [Log] Login with s1@abv.bg and password alabala 
+2021-02-28 10:33:19,062 INFO  [Log] Login passed 
+2021-02-28 10:35:28,590 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:35:38,345 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:35:43,768 INFO  [Log] Login passed 
+2021-02-28 10:36:05,527 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:36:16,033 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:36:19,119 INFO  [Log] Login passed 
+2021-02-28 10:44:13,500 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:44:18,771 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:44:22,352 INFO  [Log] Login passed 
+2021-02-28 10:44:39,184 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:44:45,463 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:44:47,285 INFO  [Log] Login passed 
+2021-02-28 10:46:07,221 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:46:13,580 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:46:15,486 INFO  [Log] Login passed 
+2021-02-28 10:46:32,114 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:46:38,378 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:46:41,105 INFO  [Log] Login passed 
+2021-02-28 10:48:04,222 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:48:10,150 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:48:12,302 INFO  [Log] Login passed 
+2021-02-28 10:48:28,690 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:51:30,332 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:51:36,733 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:51:40,876 INFO  [Log] Login passed 
+2021-02-28 10:52:02,045 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:53:54,469 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:54:01,178 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:54:03,778 INFO  [Log] Login passed 
+2021-02-28 10:54:20,199 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:54:31,571 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:54:37,317 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:54:39,659 INFO  [Log] Login passed 
+2021-02-28 10:54:56,471 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:55:43,295 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:55:49,151 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:55:51,027 INFO  [Log] Login passed 
+2021-02-28 10:56:07,237 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:56:37,064 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:56:43,475 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:56:46,532 INFO  [Log] Login passed 
+2021-02-28 10:57:03,668 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:58:27,739 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:58:33,561 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:58:35,703 INFO  [Log] Login passed 
+2021-02-28 10:58:52,101 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:59:25,893 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 10:59:31,396 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 10:59:33,280 INFO  [Log] Login passed 
+2021-02-28 10:59:50,141 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:00:06,357 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:00:11,555 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:00:14,176 INFO  [Log] Login passed 
+2021-02-28 11:00:30,449 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:00:39,588 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:00:46,541 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:00:50,294 INFO  [Log] Login passed 
+2021-02-28 11:01:07,026 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:02:24,239 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:02:32,559 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:02:35,189 INFO  [Log] Login passed 
+2021-02-28 11:02:52,088 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:04:09,546 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:04:15,141 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:04:17,858 INFO  [Log] Login passed 
+2021-02-28 11:04:35,646 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:05:22,278 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:05:29,295 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:05:31,451 INFO  [Log] Login passed 
+2021-02-28 11:05:49,178 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:09:40,920 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:09:46,762 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:09:48,848 INFO  [Log] Login passed 
+2021-02-28 11:10:05,894 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:10:51,262 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:10:58,002 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:10:59,919 INFO  [Log] Login passed 
+2021-02-28 11:11:17,017 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:11:22,963 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:11:24,771 INFO  [Log] Login passed 
+2021-02-28 11:18:34,485 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:18:42,099 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:18:43,984 INFO  [Log] Login passed 
+2021-02-28 11:19:01,787 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 11:19:07,685 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 11:19:09,471 INFO  [Log] Login passed 
+2021-02-28 11:56:00,705 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 12:31:22,672 INFO  [Log] ------------------------------ 
+2021-02-28 12:31:22,674 INFO  [Log] ---------LoginDDT--------- 
+2021-02-28 12:31:22,674 INFO  [Log] ------------------------------ 
+2021-02-28 12:31:22,674 INFO  [Log] Open new page 
+2021-02-28 12:31:22,680 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 12:31:29,421 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 12:31:29,422 ERROR [Log] Wrong email or password input 
+2021-02-28 12:31:29,422 ERROR [Log] Wrong email or password input 
+2021-02-28 12:32:08,973 INFO  [Log] ------------------------------ 
+2021-02-28 12:32:08,975 INFO  [Log] ---------LoginDDT--------- 
+2021-02-28 12:32:08,975 INFO  [Log] ------------------------------ 
+2021-02-28 12:32:08,976 INFO  [Log] Open new page 
+2021-02-28 12:32:08,980 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 12:32:15,401 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 12:32:15,402 ERROR [Log] Wrong email or password input 
+2021-02-28 12:32:15,402 ERROR [Log] Wrong email or password input 
+2021-02-28 12:34:55,186 INFO  [Log] ------------------------------ 
+2021-02-28 12:34:55,188 INFO  [Log] ---------LoginDDT--------- 
+2021-02-28 12:34:55,188 INFO  [Log] ------------------------------ 
+2021-02-28 12:34:55,188 INFO  [Log] Open new page 
+2021-02-28 12:34:55,192 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 12:35:02,639 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 12:35:04,799 INFO  [Log] Login passed 
+2021-02-28 12:35:07,897 INFO  [Log] ------------------------------ 
+2021-02-28 12:35:07,897 INFO  [Log] ---------    END   ----------- 
+2021-02-28 12:35:07,897 INFO  [Log] ------------------------------ 
+2021-02-28 12:40:03,057 INFO  [Log] ------------------------------ 
+2021-02-28 12:40:03,059 INFO  [Log] ---------LoginDDT--------- 
+2021-02-28 12:40:03,059 INFO  [Log] ------------------------------ 
+2021-02-28 12:40:03,059 INFO  [Log] Open new page 
+2021-02-28 12:40:03,064 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 12:40:09,467 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 12:40:09,468 ERROR [Log] Wrong email or password input 
+2021-02-28 12:40:09,468 ERROR [Log] Wrong email or password input 
+2021-02-28 12:42:09,298 INFO  [Log] ------------------------------ 
+2021-02-28 12:42:09,300 INFO  [Log] ---------LoginDDT--------- 
+2021-02-28 12:42:09,300 INFO  [Log] ------------------------------ 
+2021-02-28 12:42:09,300 INFO  [Log] Open new page 
+2021-02-28 12:42:09,304 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 12:42:16,040 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 12:42:17,858 INFO  [Log] Login passed 
+2021-02-28 12:42:19,881 INFO  [Log] ------------------------------ 
+2021-02-28 12:42:19,881 INFO  [Log] ---------    END   ----------- 
+2021-02-28 12:42:19,881 INFO  [Log] ------------------------------ 
+2021-02-28 13:32:02,128 INFO  [Log] ------------------------------ 
+2021-02-28 13:32:02,130 INFO  [Log] ---------LoginDDT--------- 
+2021-02-28 13:32:02,130 INFO  [Log] ------------------------------ 
+2021-02-28 13:32:02,130 INFO  [Log] Open new page 
+2021-02-28 13:32:02,134 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 13:32:08,155 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 13:32:10,393 INFO  [Log] Login passed 
+2021-02-28 13:32:12,131 INFO  [Log] ------------------------------ 
+2021-02-28 13:32:12,131 INFO  [Log] ---------    END   ----------- 
+2021-02-28 13:32:12,131 INFO  [Log] ------------------------------ 
+2021-02-28 15:27:29,858 INFO  [Log] ------------------------------ 
+2021-02-28 15:27:29,860 INFO  [Log] ---------LoginDDT--------- 
+2021-02-28 15:27:29,860 INFO  [Log] ------------------------------ 
+2021-02-28 15:27:29,860 INFO  [Log] Open new page 
+2021-02-28 15:27:29,865 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-02-28 15:27:36,455 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-02-28 15:27:38,808 INFO  [Log] Login passed 
+2021-02-28 15:27:42,089 INFO  [Log] ------------------------------ 
+2021-02-28 15:27:42,089 INFO  [Log] ---------    END   ----------- 
+2021-02-28 15:27:42,089 INFO  [Log] ------------------------------ 
+2021-03-01 21:05:44,481 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-01 21:05:49,764 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-01 21:05:51,797 INFO  [Log] Login passed 
+2021-03-01 21:06:08,216 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-13 15:18:37,210 INFO  [Log] ------------------------------ 
+2021-03-13 15:18:37,242 INFO  [Log] ---------LoginDDT--------- 
+2021-03-13 15:18:37,242 INFO  [Log] ------------------------------ 
+2021-03-13 15:18:37,242 INFO  [Log] Open new page 
+2021-03-13 15:18:37,247 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-13 15:18:44,424 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-13 15:18:46,514 INFO  [Log] Login passed 
+2021-03-13 15:18:48,544 INFO  [Log] ------------------------------ 
+2021-03-13 15:18:48,544 INFO  [Log] ---------    END   ----------- 
+2021-03-13 15:18:48,544 INFO  [Log] ------------------------------ 
+2021-03-21 13:57:15,471 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:08:02,022 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:08:31,364 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:10:51,265 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:12:36,297 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:16:27,397 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:17:28,262 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:18:13,216 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 14:20:24,578 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:20:30,723 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:21:48,929 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:22:11,528 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:22:49,516 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:23:48,881 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:25:35,025 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:26:20,747 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:27:05,531 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:28:38,516 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:29:13,507 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:30:11,583 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:31:36,105 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:33:09,958 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:34:59,896 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 15:37:54,405 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:19:36,177 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:20:48,876 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:23:13,181 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:24:15,247 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:26:09,179 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:27:50,903 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:30:02,934 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:31:15,983 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:32:39,148 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:35:09,259 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:36:10,865 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:37:00,938 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:38:28,476 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:40:05,618 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:43:00,509 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:45:08,239 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:46:01,032 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 16:47:13,244 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 17:58:14,681 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 17:58:23,270 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 17:58:26,277 INFO  [Log] Login passed 
+2021-03-21 17:58:47,333 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 17:58:53,300 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 17:58:56,091 INFO  [Log] Login passed 
+2021-03-21 18:13:08,906 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:13:16,195 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:13:18,315 INFO  [Log] Login passed 
+2021-03-21 18:13:34,982 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:15:43,800 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:15:49,491 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:15:51,419 INFO  [Log] Login passed 
+2021-03-21 18:16:09,771 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:19:21,459 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:19:27,180 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:19:29,375 INFO  [Log] Login passed 
+2021-03-21 18:19:45,607 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:22:13,504 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:22:21,294 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:22:23,985 INFO  [Log] Login passed 
+2021-03-21 18:22:40,709 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:22:44,295 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:22:50,385 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:22:52,186 INFO  [Log] Login passed 
+2021-03-21 18:23:09,618 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:32:38,974 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:36:40,893 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:36:47,487 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:36:49,605 INFO  [Log] Login passed 
+2021-03-21 18:37:07,847 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:37:14,329 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:37:16,109 INFO  [Log] Login passed 
+2021-03-21 18:37:30,293 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:37:38,111 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:37:40,880 INFO  [Log] Login passed 
+2021-03-21 18:37:48,669 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:37:56,019 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:37:58,217 INFO  [Log] Login passed 
+2021-03-21 18:39:47,126 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:39:53,838 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:39:55,832 INFO  [Log] Login passed 
+2021-03-21 18:40:13,678 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:40:21,605 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:40:24,723 INFO  [Log] Login passed 
+2021-03-21 18:43:10,338 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:43:16,155 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:43:18,127 INFO  [Log] Login passed 
+2021-03-21 18:43:24,699 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:43:30,319 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:43:32,870 INFO  [Log] Login passed 
+2021-03-21 18:45:41,009 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:45:49,675 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:45:55,571 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:45:57,692 INFO  [Log] Login passed 
+2021-03-21 18:46:12,466 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:46:18,266 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:46:20,857 INFO  [Log] Login passed 
+2021-03-21 18:52:01,800 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:52:07,774 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:52:10,066 INFO  [Log] Login passed 
+2021-03-21 18:52:16,180 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:52:22,257 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:52:24,195 INFO  [Log] Login passed 
+2021-03-21 18:52:54,581 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:52:59,898 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:53:02,442 INFO  [Log] Login passed 
+2021-03-21 18:53:09,385 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:53:15,294 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:53:17,223 INFO  [Log] Login passed 
+2021-03-21 18:56:00,139 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:56:05,851 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:56:07,730 INFO  [Log] Login passed 
+2021-03-21 18:56:13,895 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:57:21,622 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:57:28,024 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:57:33,716 INFO  [Log] Login passed 
+2021-03-21 18:57:41,977 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:57:50,187 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:57:53,182 INFO  [Log] Login passed 
+2021-03-21 18:59:25,479 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:59:32,201 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:59:34,692 INFO  [Log] Login passed 
+2021-03-21 18:59:41,128 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 18:59:49,322 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 18:59:51,351 INFO  [Log] Login passed 
+2021-03-21 19:01:04,134 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:01:10,458 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:01:12,393 INFO  [Log] Login passed 
+2021-03-21 19:01:19,311 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:01:27,791 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:01:30,262 INFO  [Log] Login passed 
+2021-03-21 19:02:17,645 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:02:23,653 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:02:27,343 INFO  [Log] Login passed 
+2021-03-21 19:02:34,473 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:02:41,069 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:02:44,080 INFO  [Log] Login passed 
+2021-03-21 19:05:56,384 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:06:02,538 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:06:05,072 INFO  [Log] Login passed 
+2021-03-21 19:06:23,044 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:07:57,452 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:08:03,128 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:08:04,991 INFO  [Log] Login passed 
+2021-03-21 19:08:11,156 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:14:35,494 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:14:42,972 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:14:44,981 INFO  [Log] Login passed 
+2021-03-21 19:14:51,517 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:14:56,968 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:14:59,178 INFO  [Log] Login passed 
+2021-03-21 19:16:08,778 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:16:13,994 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:16:16,806 INFO  [Log] Login passed 
+2021-03-21 19:16:33,519 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:17:05,015 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:17:11,943 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:17:13,911 INFO  [Log] Login passed 
+2021-03-21 19:17:29,968 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:18:06,863 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:18:15,594 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:18:21,232 INFO  [Log] Login passed 
+2021-03-21 19:18:45,804 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:19:30,246 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:19:39,319 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:19:44,116 INFO  [Log] Login passed 
+2021-03-21 19:19:54,716 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:20:09,335 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:20:16,655 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:20:20,939 INFO  [Log] Login passed 
+2021-03-21 19:20:40,922 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:20:50,794 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:20:53,294 INFO  [Log] Login passed 
+2021-03-21 19:21:00,617 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:22:53,638 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:23:03,227 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:23:07,209 INFO  [Log] Login passed 
+2021-03-21 19:23:14,638 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:31:01,202 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:31:10,854 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:31:13,628 INFO  [Log] Login passed 
+2021-03-21 19:31:24,837 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:35:08,954 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:35:16,997 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:35:20,650 INFO  [Log] Login passed 
+2021-03-21 19:35:27,566 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-03-21 19:35:36,441 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-03-21 19:35:38,375 INFO  [Log] Login passed 
+2021-04-04 11:12:23,441 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:12:29,300 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:12:31,219 INFO  [Log] Login passed 
+2021-04-04 11:12:47,834 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:12:53,466 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:12:55,523 INFO  [Log] Login passed 
+2021-04-04 11:13:52,724 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:13:58,811 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:14:01,246 INFO  [Log] Login passed 
+2021-04-04 11:14:17,504 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:14:22,851 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:14:24,799 INFO  [Log] Login passed 
+2021-04-04 11:16:00,117 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:16:06,946 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:16:08,804 INFO  [Log] Login passed 
+2021-04-04 11:16:26,225 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:16:32,242 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:16:34,120 INFO  [Log] Login passed 
+2021-04-04 11:26:19,216 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:26:25,745 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:26:28,215 INFO  [Log] Login passed 
+2021-04-04 11:26:44,859 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 11:26:51,104 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 11:26:53,183 INFO  [Log] Login passed 
+2021-04-04 12:33:17,894 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:33:24,740 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:33:26,849 INFO  [Log] Login passed 
+2021-04-04 12:33:47,327 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:33:54,600 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:33:57,269 INFO  [Log] Login passed 
+2021-04-04 12:35:59,945 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:36:05,556 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:36:07,427 INFO  [Log] Login passed 
+2021-04-04 12:36:23,704 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:36:30,455 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:36:32,323 INFO  [Log] Login passed 
+2021-04-04 12:37:20,493 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:37:26,133 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:37:28,049 INFO  [Log] Login passed 
+2021-04-04 12:37:45,553 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:37:51,241 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:37:53,985 INFO  [Log] Login passed 
+2021-04-04 12:41:42,521 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:41:47,613 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:41:50,245 INFO  [Log] Login passed 
+2021-04-04 12:41:58,312 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:42:05,635 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:42:07,798 INFO  [Log] Login passed 
+2021-04-04 12:45:39,933 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:45:47,356 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:45:49,468 INFO  [Log] Login passed 
+2021-04-04 12:45:58,766 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:46:06,124 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:46:08,338 INFO  [Log] Login passed 
+2021-04-04 12:46:43,156 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:46:55,931 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:46:58,825 INFO  [Log] Login passed 
+2021-04-04 12:47:10,232 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:47:15,757 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:47:18,036 INFO  [Log] Login passed 
+2021-04-04 12:53:39,384 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:53:45,493 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:53:47,506 INFO  [Log] Login passed 
+2021-04-04 12:54:08,421 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:54:14,282 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:54:16,196 INFO  [Log] Login passed 
+2021-04-04 12:58:42,353 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:58:48,211 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:58:51,045 INFO  [Log] Login passed 
+2021-04-04 12:59:05,443 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 12:59:11,341 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 12:59:13,191 INFO  [Log] Login passed 
+2021-04-04 15:05:47,891 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:05:55,668 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:05:58,893 INFO  [Log] Login passed 
+2021-04-04 15:06:26,051 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:06:46,925 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:06:52,984 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:06:56,628 INFO  [Log] Login passed 
+2021-04-04 15:07:12,294 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:07:19,186 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:07:22,919 INFO  [Log] Login passed 
+2021-04-04 15:24:54,799 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:25:01,348 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:25:03,666 INFO  [Log] Login passed 
+2021-04-04 15:25:19,354 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:25:27,036 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:25:30,790 INFO  [Log] Login passed 
+2021-04-04 15:29:55,675 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:30:05,684 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:30:08,195 INFO  [Log] Login passed 
+2021-04-04 15:30:23,235 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:30:29,708 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:30:31,582 INFO  [Log] Login passed 
+2021-04-04 15:35:46,983 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:35:52,684 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:35:54,861 INFO  [Log] Login passed 
+2021-04-04 15:36:19,209 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:36:24,898 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:36:27,161 INFO  [Log] Login passed 
+2021-04-04 15:38:21,523 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:38:27,948 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:38:30,020 INFO  [Log] Login passed 
+2021-04-04 15:38:50,866 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:38:57,194 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:39:01,251 INFO  [Log] Login passed 
+2021-04-04 15:40:20,284 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:40:27,158 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:40:29,360 INFO  [Log] Login passed 
+2021-04-04 15:40:50,058 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:40:56,572 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:40:58,525 INFO  [Log] Login passed 
+2021-04-04 15:42:22,050 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:42:27,621 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:42:30,361 INFO  [Log] Login passed 
+2021-04-04 15:42:53,836 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:43:00,424 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:43:02,276 INFO  [Log] Login passed 
+2021-04-04 15:48:47,762 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:48:54,202 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:48:56,333 INFO  [Log] Login passed 
+2021-04-04 15:49:22,510 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 15:49:30,430 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 15:49:32,474 INFO  [Log] Login passed 
+2021-04-04 16:00:09,559 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:00:15,873 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:00:18,369 INFO  [Log] Login passed 
+2021-04-04 16:00:39,388 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:11:54,279 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:12:02,699 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:12:04,609 INFO  [Log] Login passed 
+2021-04-04 16:12:30,229 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:15:44,926 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:15:51,114 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:15:53,300 INFO  [Log] Login passed 
+2021-04-04 16:16:09,594 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:16:16,394 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:16:18,233 INFO  [Log] Login passed 
+2021-04-04 16:47:16,762 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:47:24,765 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:47:27,245 INFO  [Log] Login passed 
+2021-04-04 16:47:48,195 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:47:54,010 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:47:56,742 INFO  [Log] Login passed 
+2021-04-04 16:48:34,730 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:48:40,435 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:48:43,285 INFO  [Log] Login passed 
+2021-04-04 16:48:58,578 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:49:04,855 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:49:06,630 INFO  [Log] Login passed 
+2021-04-04 16:58:16,234 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:58:23,560 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:58:26,766 INFO  [Log] Login passed 
+2021-04-04 16:58:54,252 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 16:59:02,045 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 16:59:03,897 INFO  [Log] Login passed 
+2021-04-04 17:00:44,681 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 17:00:51,484 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 17:00:54,119 INFO  [Log] Login passed 
+2021-04-04 17:01:20,435 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 17:01:27,279 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 17:01:30,095 INFO  [Log] Login passed 
+2021-04-04 17:03:52,349 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 17:03:57,952 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 17:04:01,563 INFO  [Log] Login passed 
+2021-04-04 17:04:15,537 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 17:04:21,912 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 17:04:23,707 INFO  [Log] Login passed 
+2021-04-04 17:05:13,442 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 17:05:18,553 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 17:05:21,070 INFO  [Log] Login passed 
+2021-04-04 17:05:37,544 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 17:05:43,147 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 17:05:45,518 INFO  [Log] Login passed 
+2021-04-04 18:26:20,202 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:26:26,421 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:26:29,392 INFO  [Log] Login passed 
+2021-04-04 18:26:55,008 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:33:09,541 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:33:15,462 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:33:17,339 INFO  [Log] Login passed 
+2021-04-04 18:33:42,731 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:33:48,351 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:33:50,411 INFO  [Log] Login passed 
+2021-04-04 18:35:01,250 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:35:07,949 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:35:10,092 INFO  [Log] Login passed 
+2021-04-04 18:35:38,564 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:35:44,300 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:35:47,382 INFO  [Log] Login passed 
+2021-04-04 18:38:31,978 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:38:37,890 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:38:40,329 INFO  [Log] Login passed 
+2021-04-04 18:39:08,908 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:41:47,276 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:41:52,823 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:41:54,677 INFO  [Log] Login passed 
+2021-04-04 18:42:20,927 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:44:59,785 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:45:07,183 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:45:09,037 INFO  [Log] Login passed 
+2021-04-04 18:45:35,505 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:45:51,923 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:45:58,208 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:46:01,521 INFO  [Log] Login passed 
+2021-04-04 18:46:21,887 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:46:29,225 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:46:36,107 INFO  [Log] Login passed 
+2021-04-04 18:59:42,496 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 18:59:49,795 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 18:59:53,118 INFO  [Log] Login passed 
+2021-04-04 19:00:12,319 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:00:18,787 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:00:20,843 INFO  [Log] Login passed 
+2021-04-04 19:01:05,972 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:01:16,657 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:01:24,118 INFO  [Log] Login passed 
+2021-04-04 19:01:45,536 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:04:36,808 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:04:45,258 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:04:48,611 INFO  [Log] Login passed 
+2021-04-04 19:05:15,166 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:05:19,717 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:09:20,113 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:09:25,482 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:09:28,653 INFO  [Log] Login passed 
+2021-04-04 19:09:51,365 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:11:45,527 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:11:52,175 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:11:54,360 INFO  [Log] Login passed 
+2021-04-04 19:12:17,678 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:12:23,857 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:12:25,891 INFO  [Log] Login passed 
+2021-04-04 19:13:21,339 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:13:27,156 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:13:29,070 INFO  [Log] Login passed 
+2021-04-04 19:13:46,833 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:13:52,882 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:13:54,773 INFO  [Log] Login passed 
+2021-04-04 19:15:02,026 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:15:08,798 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:15:10,738 INFO  [Log] Login passed 
+2021-04-04 19:15:30,270 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:15:36,564 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:15:38,456 INFO  [Log] Login passed 
+2021-04-04 19:20:39,016 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:20:44,507 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:20:47,293 INFO  [Log] Login passed 
+2021-04-04 19:21:06,248 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:21:14,475 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:21:16,593 INFO  [Log] Login passed 
+2021-04-04 19:21:47,581 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:21:53,114 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:21:55,168 INFO  [Log] Login passed 
+2021-04-04 19:22:16,465 INFO  [Log] Open http://automationpractice.com/index.php 
+2021-04-04 19:22:25,095 INFO  [Log] Login with s1@abv.bg and password q1w2e3 
+2021-04-04 19:22:26,922 INFO  [Log] Login passed 

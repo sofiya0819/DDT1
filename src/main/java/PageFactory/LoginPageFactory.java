@@ -1,12 +1,14 @@
 package PageFactory;
 
-import PageObjectModel.CreateAccountPage;
+import AutoFrameWork.Validation;
+import PageObjectModel.RegistrationPage;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPageFactory {
@@ -34,6 +36,7 @@ public class LoginPageFactory {
     @FindBy(id = "SubmitCreate")
     WebElement submitCreateAccountBtn;
 
+    Validation validation;
 
     public LoginPageFactory(WebDriver driver){
         //ToDo: set implicit wait
@@ -80,16 +83,25 @@ public class LoginPageFactory {
         return new ForgottenPasswordPageFactory(driver);
     }
 
-    public void createAccount(String email){
-        emailCreateField.sendKeys(email);
-        System.out.println("createAccount passed");
-    }
+//    public void createAccount(String email){
+//        emailCreateField.sendKeys(email);
+//        System.out.println("createAccount passed");
+//    }
+//
+//    public RegistrationPageFactory openRegistrationPage(){
+//        if(createAccountForm.isDisplayed()){
+//            submitCreateAccountBtn.click();
+//            return new RegistrationPageFactory(driver);
+//        }else{
+//            throw new RuntimeException("Not creating an account from login page");
+//        }
+//    }
 
-
-    public CreateAccountPage openCreateAccountPage(){
+    public RegistrationPageFactory createAccount(String email){
         if(createAccountForm.isDisplayed()){
+            emailCreateField.sendKeys(email);
             submitCreateAccountBtn.click();
-            return new CreateAccountPage(driver);
+            return new RegistrationPageFactory(driver);
         }else{
             throw new RuntimeException("Not creating an account from login page");
         }

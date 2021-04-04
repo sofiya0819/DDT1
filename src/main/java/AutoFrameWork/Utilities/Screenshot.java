@@ -58,7 +58,7 @@ public class Screenshot {
     private static String getFileNameWithCurrentDate(String step){
         Date date = new Date();
         SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy_HH-mm-ss");
-        String fileName = step + formatter.format(date).toString()+".png";
+        String fileName = step + "_" +formatter.format(date).toString()+".png";
         return fileName;
     }
 }

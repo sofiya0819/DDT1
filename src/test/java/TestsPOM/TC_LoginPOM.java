@@ -1,9 +1,6 @@
 package TestsPOM;
 
-import PageObjectModel.CreateAccountPage;
-import PageObjectModel.ForgottenPasswordPage;
-import PageObjectModel.HomePage;
-import PageObjectModel.LoginPage;
+import PageObjectModel.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -28,29 +25,33 @@ public class TC_LoginPOM {
     }
 
 
-    public void login(String email, String password) throws IOException {
-        HomePage homePage = new HomePage(driver);
+    public void login(String email, String password, String userInfo) throws IOException {
+        HomePage homePage = new HomePage(driver,"");
         homePage.navigateTo(url);
         LoginPage loginPage = homePage.openSignInPage();
         loginPage.login(email,password);
-        loginPage.checkAccountInfoByText("Test Test");
+        loginPage.checkAccountInfoByText(userInfo);
         loginPage.logOut();
         homePage.closePage();
     }
 
     public void createNewAccount(String email){
-        HomePage homePage = new HomePage(driver);
+        HomePage homePage = new HomePage(driver,"");
         homePage.navigateTo(url);
         LoginPage loginPage = homePage.openSignInPage();
-        loginPage.createAccount(email);
-        CreateAccountPage createAccountPage = loginPage.openCreateAccountPage();
-
+//        loginPage.createAccount(email);
+//        RegistrationPage registrationPage = loginPage.openRegistrationPage(email);
+        RegistrationPage registrationPage = loginPage.createAccount(email);
+        homePage.closePage();
     }
 
     @Test
     public void SuccessfulLoginAndLogOut() {
+        String email = "test123@abv.bg";
+        String pass = "123456";
+        String userInfo = "Test Test";
         try {
-            login("test123@abv.bg","123456");
+            login(email,pass,userInfo);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -63,22 +64,25 @@ public class TC_LoginPOM {
 
     @Test
     public void forgottenPasswordWithNonExistingEmail(){
-        HomePage homePage = new HomePage(driver);
+        String email = "s1234@gmail.com";
+        HomePage homePage = new HomePage(driver,"");
         homePage.navigateTo(url);
         LoginPage loginPage = homePage.openSignInPage();
         ForgottenPasswordPage forgottenPasswordPage = loginPage.openForgottenPasswordPage();
-        forgottenPasswordPage.RetrievePasswordWithInvalidEmail("s1234@gmail.com");
+        forgottenPasswordPage.RetrievePasswordWithInvalidEmail(email);
         forgottenPasswordPage.closePage();
+
     }
 
 
     @Test
     public void forgottenPasswordWithAnExistingEmail(){
-        HomePage homePage = new HomePage(driver);
+        String email = "test123@abv.bg";
+        HomePage homePage = new HomePage(driver,"");
         homePage.navigateTo(url);
         LoginPage loginPage = homePage.openSignInPage();
         ForgottenPasswordPage forgottenPasswordPage = loginPage.openForgottenPasswordPage();
-        forgottenPasswordPage.RetrievePasswordWithValidEmail("test123@abv.bg");
+        forgottenPasswordPage.RetrievePasswordWithValidEmail(email);
         forgottenPasswordPage.closePage();
     }
 

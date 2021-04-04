@@ -5,6 +5,7 @@ import AutoFrameWork.Utilities.Log;
 import AutoFrameWork.Utilities.Screenshot;
 import PageObjectModel.HomePage;
 import PageObjectModel.LoginPage;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
@@ -24,6 +25,10 @@ public class LoginDDT extends MainTestSetUp {
             e.printStackTrace();
         }
     }
+    @After
+    public void tearDown(){
+        this.mainTestTearDown();
+    }
 
     @Ignore
     @Test
@@ -36,7 +41,7 @@ public class LoginDDT extends MainTestSetUp {
         try{
             Log.startTestDetails(this.getClass().getSimpleName());
             Log.info("Open new page");
-            HomePage homePage = new HomePage(driver);
+            HomePage homePage = new HomePage(driver,this.getUsername());
             homePage.navigateTo(this.getMainURL());
 
             LoginPage loginPage = homePage.openSignInPage();
